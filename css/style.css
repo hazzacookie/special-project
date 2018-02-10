@@ -1,0 +1,25 @@
+* {
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+body {
+    background: rgb(137,236,218);
+    color: #000;
+    margin-top: 20px;
+}
+
+.container {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+}
+
+#top {
+  margin-top: 20px;
+}
+
+li {
+    margin: 0;
+    padding: 0;
+}
